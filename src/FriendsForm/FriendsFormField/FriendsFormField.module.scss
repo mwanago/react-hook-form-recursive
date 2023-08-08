@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+
+.labelContainer {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.addPropertyButton {
+  margin-left: 5px;
+}
+
+.removePropertyButton {
+  width: 25px;
+  margin-right: 5px;
+  height: 21px;
+}
+
+.propertyContainer {
+  display: flex;
+  margin-left: 25px;
+}
